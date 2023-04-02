@@ -6,15 +6,22 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-04-01T20:12:38+00:00"
+      "last_modified": "2023-04-01T22:35:22+00:00"
     },
     {
       "path": "index.html",
       "title": "Teaching R",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n          \n          \n          Teaching R\n          \n          \n          Home\n          About\n          Me\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Teaching R\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            \n            \n            Education\n            Here are my Science\n            lessons\n            video: https://www.youtube.com/watch?v=YqnoSI6desg&list=PLpZT7JPM8_GZlqEssUJ6ABm0rblI1cBEW&index=4\n            \n            \n            Experience\n            This website was built completely in R\n            using the distill package 😄 🐶\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Teaching R\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              \n              \n              Education\n              Here are my Science\n              lessons\n              video: https://www.youtube.com/watch?v=YqnoSI6desg&list=PLpZT7JPM8_GZlqEssUJ6ABm0rblI1cBEW&index=4\n              \n              \n              Experience\n              This website was built completely in R\n              using the distill package 😄 🐶\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-04-01T23:48:00+00:00"
+    },
+    {
+      "path": "me.html",
+      "title": "me",
+      "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-04-01T20:12:38+00:00"
+      "last_modified": "2023-04-01T22:49:26+00:00"
     }
   ],
   "collections": []
