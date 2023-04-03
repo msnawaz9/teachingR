@@ -6,14 +6,14 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-04-01T22:35:22+00:00"
+      "last_modified": "2023-04-03T15:49:21+00:00"
     },
     {
       "path": "index.html",
       "title": "Teaching R",
       "author": [],
-      "contents": "\n\n          \n          \n          Teaching R\n          \n          \n          Home\n          About\n          Me\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Teaching R\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            \n            \n            Education\n            Here are my Science\n            lessons\n            video: https://www.youtube.com/watch?v=YqnoSI6desg&list=PLpZT7JPM8_GZlqEssUJ6ABm0rblI1cBEW&index=4\n            \n            \n            Experience\n            This website was built completely in R\n            using the distill package 😄 🐶\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Teaching R\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              \n              \n              Education\n              Here are my Science\n              lessons\n              video: https://www.youtube.com/watch?v=YqnoSI6desg&list=PLpZT7JPM8_GZlqEssUJ6ABm0rblI1cBEW&index=4\n              \n              \n              Experience\n              This website was built completely in R\n              using the distill package 😄 🐶\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2023-04-01T23:48:00+00:00"
+      "contents": "\n\n          \n          \n          Teaching R\n          \n          \n          Home\n          About\n          Me\n          More info\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Teaching R\n            \n            \n              \n                \n                    \n                      \n                         Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                         GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                         Contact Us\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            \n            \n            Education\n            Here are my Science\n            lessons\n            iframe width=“560” height=“315”\n            src=“https://www.youtube.com/embed/pLFep4pPGCs”\n            title=“YouTube video player” frameborder=“0”\n            allow=“accelerometer; autoplay; clipboard-write;\n            encrypted-media; gyroscope; picture-in-picture; web-share”\n            allowfullscreen>\n            \n            \n            Experience\n            This website was built completely in R\n            using the distill package 😄 🐶\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Teaching R\n            \n            \n              \n                \n                                    \n                    \n                       Twitter\n                    \n                  \n                                    \n                    \n                       GitHub\n                    \n                  \n                                    \n                    \n                       Contact Us\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              \n              \n              Education\n              Here are my Science\n              lessons\n              iframe width=“560” height=“315”\n              src=“https://www.youtube.com/embed/pLFep4pPGCs”\n              title=“YouTube video player” frameborder=“0”\n              allow=“accelerometer; autoplay; clipboard-write;\n              encrypted-media; gyroscope; picture-in-picture; web-share”\n              allowfullscreen>\n              \n              \n              Experience\n              This website was built completely in R\n              using the distill package 😄 🐶\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-04-03T16:04:25+00:00"
     },
     {
       "path": "me.html",
@@ -21,7 +21,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-04-01T22:49:26+00:00"
+      "last_modified": "2023-04-03T15:49:24+00:00"
     },
     {
       "path": "moreinfo.html",
@@ -29,7 +29,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nThis is a test\n\n\n\n",
-      "last_modified": "2023-04-02T11:19:46+00:00"
+      "last_modified": "2023-04-03T15:49:24+00:00"
     }
   ],
   "collections": []

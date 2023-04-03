@@ -18,9 +18,9 @@ site: distill::distill_website
 
 
 ## Education
-Here are my [Science](http://rgirls.org.uk/science_lessons.html) lessons
+Here are my [Science](https://rgirls.org.uk/science_lessons.html) lessons
 
-`video: https://www.youtube.com/watch?v=YqnoSI6desg&list=PLpZT7JPM8_GZlqEssUJ6ABm0rblI1cBEW&index=4`
+iframe width="560" height="315" src="https://www.youtube.com/embed/pLFep4pPGCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Experience
 This website was built completely in **R** using the `distill` package  `r emo::ji("smile")` `r emo::ji("dog")`
